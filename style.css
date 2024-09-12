@@ -31,6 +31,20 @@ body {
 
 header {
     font-size: 1.5rem;
+    color: black;
+}
+
+.para {
+    display: flex;
+    font-size: 1.5rem;
+    color: black;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.para p {
+    max-width: 80%;
 }
 
 header, form {
